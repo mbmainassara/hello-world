@@ -1,0 +1,10 @@
+git config --global user.email "mbmainassara@yahoo.fr"
+git config --global user.name "mbmainassara"
+
+depôt sur GitHub
+git remote add origin https://github.com/mbmainassara/hello-world.git
+git push origin master
+
+chagement de branche master vers dev
+git checkout -b dev
+git branch
